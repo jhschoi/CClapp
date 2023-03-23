@@ -12,3 +12,6 @@ print("We want to show that 10 + 12 is")
 x = 10
 y = 12
 print(x+y)
+
+# Changes for testing
+print("Change")
